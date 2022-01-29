@@ -1,4 +1,4 @@
-#Extração de DNA
+# Extração de DNA
 
  - Centrifugar á 6000g por 20min 2x10^9 bacterias de cultura em meio líquido
  - Desprezar o sobrenadande e manter o pellet
